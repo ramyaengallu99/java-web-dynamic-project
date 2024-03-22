@@ -6,7 +6,7 @@
 
   <groupId>com.devops</groupId>
   <artifactId>java-web-dynamic-project</artifactId>
-  <version>1.0</version>
+  <version>SNAPSHOT-1.0</version>
   <packaging>war</packaging>
 
   <name>java-web-dynamic-project Maven Webapp</name>
