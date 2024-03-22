@@ -78,5 +78,5 @@
       </repository>
 	
    </distributionManagement>
-  http://localhost:8081/repository/today/
+    http://localhost:8081/repository/today/
 </project>
